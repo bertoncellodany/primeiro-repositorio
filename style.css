@@ -1,6 +1,14 @@
 p {
    text-align: center;
 }
+#banner{
+    width:100%
+}
+
+.principai{
+    background-color: darkgrey;
+    padding: 30px;
+}
 #missao {
     font-size: 20px
 }
@@ -8,8 +16,25 @@ h1 {
     text-align: center
 }
 body {
-    background-color: darkgrey;
+ 
 }
 em strong {
     color: red;
+}
+.beneficios{
+    background-color: white;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios{
+    width: 50%;
 }
